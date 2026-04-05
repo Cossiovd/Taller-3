@@ -35,3 +35,9 @@ a {
     border: 1px solid #ccc;
     border-radius: 8px;
 }
+
+.nav-links{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
